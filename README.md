@@ -3,7 +3,7 @@
 
 ## Build
 ```
-docker build .
+docker build -t seebasschin/ghost-bcms .
 ```
 
 
