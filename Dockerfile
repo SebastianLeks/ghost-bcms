@@ -8,3 +8,6 @@ RUN echo "America/Chicago" > /etc/timezone \
 # Install wget and install/updates certificates
  && apt-get update \
  && apt-get clean
+
+
+EXPOSE 2368
