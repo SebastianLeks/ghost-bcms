@@ -1,4 +1,4 @@
-FROM ghost:0.11.4
+FROM ghost:0.11.7
 
 MAINTAINER seebasschin
 
