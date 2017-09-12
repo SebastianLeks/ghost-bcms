@@ -9,5 +9,4 @@ RUN echo "America/Chicago" > /etc/timezone \
  && apt-get update \
  && apt-get clean
 
-
 EXPOSE 2368

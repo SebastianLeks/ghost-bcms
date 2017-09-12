@@ -19,5 +19,4 @@ remove: --restart -d
 
 ## References 
 https://hub.docker.com/_/ghost/
-
 https://github.com/docker-library/ghost
