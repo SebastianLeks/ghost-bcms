@@ -1,6 +1,6 @@
-FROM ghost:0.11.7
+FROM ghost:1.8.4
 
-MAINTAINER seebasschin
+MAINTAINER SebastianLeks
 
 # Set timezone
 RUN echo "America/Chicago" > /etc/timezone \
